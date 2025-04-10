@@ -82,8 +82,32 @@
 
 ![](img/20.add,%20commit%20and%20push%20add-contact.PNG)
 
-- create New pull request
-- 
-- add pull request
+- Creating a ***Pull Request***
 
+![](img/21.%20github%20repo.PNG)
 
+- click on ***main*** dropdown on github and select the branch to merge
+
+![](img/22.%20switch%20branches.PNG)
+
+click on contribution dropdown and click on open pull request
+
+![](img/23.%20update-nav%20pull%20request.PNG)
+
+make comment and click on pull request
+
+![](img/24.%20create%20pull%20request.PNG)
+
+merge pull request and confirm merge
+
+![](img/25.%20merge%20pull%20request.PNG)
+
+switch to ***add-contact-inf*** branch
+
+![](img/26.%20switch%20to%20branch%20add-con-info.PNG)
+
+![](img/26.%20pull%20to%20add-con-info.PNG)
+
+After making changes on add-contact-info branch, staged the change, commit the change and push to the branch remote repo
+
+![](img/27.%20push%20to%20remote%20branch.PNG)
