@@ -81,3 +81,5 @@
 - switch to `add-contact-info` branch, modify the index file, staged it, commit and push to github
 
 ![](img/20.add,%20commit%20and%20push%20add-contact.PNG)
+
+- add pull request
